@@ -1,5 +1,5 @@
 ### Hi there 👋
-![My stats](https://github.com/lezchook)
+![lezchook's GitHub stats](https://github-readme-stats.vercel.app/api?lezchook=anuraghazra&hide=contribs,prs)
 <!--
 **lezchook/lezchook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
