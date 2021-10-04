@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sergey Leshchenko. I am an begginer junior Java developer. 
+My name is Sergey Leshchenko. I am an begginer junior Java developer. \\
 I also do not forget to pay attention to front-end technologies and mobile development.
 ![lezchook's GitHub stats](https://github-readme-stats.vercel.app/api?username=lezchook&hide=contribs,prs)
 <!--
